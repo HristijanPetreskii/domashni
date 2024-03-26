@@ -1,0 +1,3 @@
+Fullname: Hristijan Petreski
+Age: 21
+Profession: Student at Finki
